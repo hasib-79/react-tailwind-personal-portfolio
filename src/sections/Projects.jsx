@@ -10,7 +10,7 @@ const Projects = () => {
         "A real-time group chat application designed to help users find and summarize important conversations in busy group chats.",
       image: "/projects/project1.png",
       tags: ["React", "Node.js", "MongoDB", "Socket.IO"],
-      link: "https://smart-chat-app-yfic.onrender.com/",
+      link: "https://smart-chat-app-frontend.vercel.app/",
       github: "https://github.com/hasib-79/smart-chat-app",
     },
     {
@@ -19,7 +19,7 @@ const Projects = () => {
         "A full-stack music streaming application inspired by modern music platforms, with album browsing, audio playback, and dynamic music management.",
       image: "/projects/project2.png",
       tags: ["React", "Node.js", "MongoDB", "Cloudinary"],
-      link: "https://playit-zjkc.onrender.com/",
+      link: "https://playit-frontend.vercel.app/",
       github: "https://github.com/hasib-79/playit-music-player",
     },
     {
@@ -28,7 +28,7 @@ const Projects = () => {
         "A full-stack blogging platform where users can create, edit, update, and manage blog posts through a responsive and intuitive interface.",
       image: "/projects/project3.png",
       tags: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
-      link: "https://myblog-zwhd.onrender.com/",
+      link: "https://mern-blog-app-fronend.vercel.app/",
       github: "https://github.com/hasib-79/mern-blog-app",
     },
   ]
